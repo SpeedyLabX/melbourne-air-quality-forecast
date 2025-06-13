@@ -192,3 +192,33 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Môi trường ảo Python
+venv/
+env/
+.env
+
+# Dữ liệu lớn, file tạm và kết quả
+data/raw/
+data/processed/
+/data/*.csv
+/data/*.json
+/data/*.zip
+/data/*.parquet
+
+# Kết quả thí nghiệm, logs và model checkpoints
+/results/
+/logs/
+/models/
+/checkpoints/
+*.png
+*.jpg
+
+# Thư mục của các IDE
+.vscode/
+.idea/
+*.ipynb_checkpoints
+
+# Caches
+__pycache__/
+.pytest_cache/
