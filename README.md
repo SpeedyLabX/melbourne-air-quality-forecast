@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Planning-blue" alt="Project Status">
   <img src="https://img.shields.io/badge/Conference-AJCAI%202025%20Target-brightgreen" alt="Conference Target">
-  <img src="https://img.shields.io/github/license/SpeedyLabX/melbourne-air-quality-forecast" alt="LICENSE">
+  <img src="https://img.shields.io/github/LICENSE/SpeedyLabX/melbourne-air-quality-forecast" alt="License">
   <a href="https://github.com/SpeedyLabX/melbourne-air-quality-forecast/issues"><img src="https://img.shields.io/github/issues/SpeedyLabX/melbourne-air-quality-forecast" alt="GitHub issues"></a>
 </p>
 
