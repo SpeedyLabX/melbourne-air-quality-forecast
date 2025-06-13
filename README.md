@@ -50,8 +50,9 @@ This project is a research initiative by **SpeedyLabX**, a student-led AI resear
 
 | Member | Role | GitHub Profile |
 | :--- | :--- | :--- |
-| Gia Bảo | Data Engineering & XAI | `[Link to Gia Bao's GitHub]` |
-| XXX | Modeling & Research Writing | `[Link to XXX's GitHub]` |
+| Le Nguyen Gia Hung | Data Engineering & XAI      | [Link to Gia Hung's GitHub](https://github.com/hei1sme) |
+| Hoang Pham Gia Bao | Modeling & Research Writing | [Link to Gia Bao's GitHub](https://github.com/BAOHOANG2005) |
+| Vo Tan Phat        | Modeling & Research Writing | [Link to Tan Phat's GitHub](https://github.com/FappLord) |
 
 **Mentor:** Ms. Minh Thư
 
