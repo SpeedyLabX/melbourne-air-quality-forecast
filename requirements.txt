@@ -1,0 +1,28 @@
+# Core libraries
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+torch
+timm
+opencv-python
+
+# XAI libraries
+shap
+captum
+dice-ml
+
+# Data collection & API
+requests
+praw
+facebook-sdk
+tweepy
+simplejson
+overpy
+geopy
+
+# Optional for notebooks
+jupyterlab
+matplotlib
+seaborn
