@@ -199,12 +199,12 @@ env/
 .env
 
 # Dữ liệu lớn, file tạm và kết quả
-data/raw/
-data/processed/
-/data/*.csv
-/data/*.json
-/data/*.zip
-/data/*.parquet
+# data/raw/
+# data/processed/
+# /data/*.csv
+# /data/*.json
+# /data/*.zip
+# /data/*.parquet
 
 # Kết quả thí nghiệm, logs và model checkpoints
 /results/
